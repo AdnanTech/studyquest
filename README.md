@@ -8,9 +8,14 @@
 
 ## login details
 back-end blog admin panel:
+
 username: test
+
 password: demo
 
+
 forum admin login:
+
 username: adnan
+
 password: quisar
